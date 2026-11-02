@@ -52,6 +52,7 @@ This list covers places that take public app submissions, plus checklists, free 
 ## Startup and side project directories
 
 - [indietools.app](https://www.indietools.app/) - Directory of indie products and founders. Account needed, and free listings need the IndieTools badge verified on your site before manual review; free tier, paid options. Dofollow once their badge is on your site, and paid plans get a permanent dofollow link.
+- [mediapronet.com](https://mediapronet.com/) - Curated directory of new startups, SaaS tools and indie products. Account needed, and free listings need their badge on your homepage and publish after at least 7 days, shown as Unverified; free tier, paid options.
 - [promoteproject.com](https://www.promoteproject.com/) - Startup directory with articles, jobs and a forum. Account needed, registered with email. Free. Says approved listings get a dofollow link.
 - [shareyourstartup.com](https://shareyourstartup.com/) - Startup list with upvotes and no signup. You submit a name, URL, one-line pitch and email, and the wait is shorter if you share the site or add their badge; free tier, paid options. Links are nofollow.
 - [sideprojectors.com](https://www.sideprojectors.com/) - Marketplace to sell, buy or showcase side projects such as SaaS, websites, blogs, apps and domains. Account needed; free tier, paid options.
