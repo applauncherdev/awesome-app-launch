@@ -90,6 +90,7 @@ This list covers places that take public app submissions, plus checklists, free 
 - [aiindigo.com](https://aiindigo.com/) - AI tools directory that also covers MCP servers and agents. Web form with optional email, listed after review. Free.
 - [aimarketly.com](https://www.aimarketly.com/) - Marketplace for AI tools, prompts, skills, MCP servers and agents. No account needed, email required, and human review within 48 hours. Free. Says approved listings get a permanent dofollow link.
 - [dang.ai](https://dang.ai/) - Large AI tools directory. Email account needed, and the free tier requires a crawlable backlink to dang.ai and one category, while paid tiers skip the backlink; free tier, paid options. Says approved listings get a dofollow link.
+- [meetnewai.com](https://meetnewai.com/) - Free bilingual directory of AI tools, browser-playable AI games and MCP servers, organized by the job you need done, with a short editorial note on every listing. Account needed to submit a product, and submissions are reviewed. Free.
 - [tulimoa.com](https://tulimoa.com/) - Hand-reviewed directory for AI and MCP software in English and German. Account through Google or email, with their badge on your site for the free listing and a listing within 7 days; free tier, paid options. Says approved listings get a dofollow link.
 
 ## Developer, MCP and agent directories
